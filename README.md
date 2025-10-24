@@ -26,6 +26,7 @@
 | 华为 | 2020/10/15 | 几乎不招人，大量面试并泡池子 | [可靠消息，华为云cbu今年基本不招人，三面完1314级的铁凉](https://www.nowcoder.com/discuss/539528)<br>[关于华为云的更大坏消息](https://www.nowcoder.com/discuss/540384) | [可靠消息，华为云cbu今年基本不招人，三面完1314级的铁凉.png][可靠消息，华为云cbu今年基本不招人，三面完1314级的铁凉.png] |
 | 顺丰快运科技 | 2020/10/12 | 大量毁约意向书**（原贴删除）** | [顺丰快运科技毁意向](https://cc.bingj.com/cache.aspx?q=%e9%a1%ba%e4%b8%b0+%e5%85%ac%e5%8f%b8+%e6%af%81&d=4742575977857058&mkt=zh-HK&setlang=zh-CN&w=_u-jtMlLQchsrIHD0QSZSnbv0v9p805f)<br>[顺丰毁约 放鸽子 口头offer后 毁](https://cc.bingj.com/cache.aspx?q=%e9%a1%ba%e4%b8%b0+%e5%85%ac%e5%8f%b8+%e6%af%81&d=5006145236175916&mkt=zh-HK&setlang=zh-CN&w=g4IqsWz2ClrkiE4iAprpT78IXhM_Qz3n) | 待补充 |
 | 海康威视 | 2020/10/12 | 毁签约通知 | [海康威视hr的神奇操作。。简直无语。](https://www.nowcoder.com/discuss/536167) | [海康威视hr的神奇操作。。简直无语。.png][海康威视hr的神奇操作。。简直无语。.png] |
+| 海康威视（悉尼） | 2024/01/12 | 招聘无薪实习，白干三个月 | 为节省成本，转正后把正式员工pip，裁员不给钱，背调威胁，同时会问员工父母养老金够不够，出了海也践踏国外劳动法，无法无天，小红书上接着招聘无薪实习生，同样的招数骗下一个学生 | 
 | 寒武纪 | 2020/10/11 | 抽奖面试直通卡，不安排面试（？？？）| [死渣男，寒武纪！！！](https://acm.nowcoder.com/discuss/535795) | [死渣男，寒武纪！！！.png][死渣男，寒武纪！！！.png] |
 | Oppo | 2020/08/22 | 实习转正，性别歧视（被公关道歉） | [关于OPPO实习女生转正问题的说明](https://www.nowcoder.com/discuss/485524) | [关于OPPO实习女生转正问题的说明.png][关于OPPO实习女生转正问题的说明.png] |
 | 旷视 | 2020/08/09 | 解约三方 | [旷视-秋招offer提前实习被告知工作不利被主动解约三方](https://www.nowcoder.com/discuss/396691) | [旷视-秋招offer提前实习被告知工作不利被主动解约三方.png][旷视-秋招offer提前实习被告知工作不利被主动解约三方.png] |
